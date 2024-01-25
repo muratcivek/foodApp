@@ -1,6 +1,6 @@
   Kullanılan kütüphaneler ve teknolojiler:
--Navigation component: Fragmentler arası dolaşmak için.
--Retrofit: Api istekleri gerçekleştirmek için.
+**-Navigation component: Fragmentler arası dolaşmak için.**
+**-Retrofit: Api istekleri gerçekleştirmek için.**
 -Room Database: Yerel veritabanına yemekleri kaydetmek için.
 -MVVM & LiveData: Daha okunabilir bir kod ve anlık veri değişimini takip etmek için.
 -Coroutines: Arka planda bazı işleri gerçekleştirmek için.
