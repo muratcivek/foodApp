@@ -1,1 +1,1 @@
-![Uygulama Görseli ](https://github.com/muratcivek/foodApp/tree/main/Photos/1.png)  
+![Uygulama Görseli ](https://github.com/muratcivek/foodApp/blob/main/Photos/1.png)  
