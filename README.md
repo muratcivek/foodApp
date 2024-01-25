@@ -21,3 +21,5 @@
 ![Uygulama Görseli ](https://github.com/muratcivek/foodApp/blob/main/Photos/5.png)  
 ![Uygulama Görseli ](https://github.com/muratcivek/foodApp/blob/main/Photos/6.png)  
 ![Uygulama Görseli ](https://github.com/muratcivek/foodApp/blob/main/Photos/7.png)  
+
+Katkıları için Land of coding'e teşekkürler.
