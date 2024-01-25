@@ -1,1 +1,7 @@
 ![Uygulama Görseli ](https://github.com/muratcivek/foodApp/blob/main/Photos/1.png)  
+![Uygulama Görseli ](https://github.com/muratcivek/foodApp/blob/main/Photos/2.png)  
+![Uygulama Görseli ](https://github.com/muratcivek/foodApp/blob/main/Photos/3.png)  
+![Uygulama Görseli ](https://github.com/muratcivek/foodApp/blob/main/Photos/4.png)  
+![Uygulama Görseli ](https://github.com/muratcivek/foodApp/blob/main/Photos/5.png)  
+![Uygulama Görseli ](https://github.com/muratcivek/foodApp/blob/main/Photos/6.png)  
+![Uygulama Görseli ](https://github.com/muratcivek/foodApp/blob/main/Photos/7.png)  
